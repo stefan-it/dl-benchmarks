@@ -71,17 +71,17 @@
 
 ## RTX 2080 TI
 
-| Precision   | vgg16 eval   | vgg16 train   | resnet152 eval   | resnet152 train   
+| Precision   | vgg16 eval   | vgg16 train   | resnet152 eval   | resnet152 train
 |:------------|:-------------|:--------------|:-----------------|:------------------
-| 32-bit      | 29.0ms       | 91.4ms        | 43.6ms           | 191.2ms           
-| 16-bit      | 18.7ms       | 60.2ms        | 25.5ms           | 135.0ms  
+| 32-bit      | 29.0ms       | 91.4ms        | 43.6ms           | 191.2ms
+| 16-bit      | 18.7ms       | 60.2ms        | 25.5ms           | 135.0ms
 
 ## RTX 2070
 
-| Precision   | vgg16 eval   | vgg16 train   | resnet152 eval   | resnet152 train   
+| Precision   | vgg16 eval   | vgg16 train   | resnet152 eval   | resnet152 train
 |:------------|:-------------|:--------------|:-----------------|:------------------
-| 32-bit      | 42.6ms       | 130.6ms       | 65.1ms           | 264.2ms           
-| 16-bit      | 29.0ms       | 94.2ms        | 39.5ms           | 183.9ms           
+| 32-bit      | 42.6ms       | 130.6ms       | 65.1ms           | 264.2ms
+| 16-bit      | 29.0ms       | 94.2ms        | 39.5ms           | 183.9ms
 
 ## Comparison
 
@@ -102,3 +102,12 @@
 | vgg16 train     | 60.2ms      | 94.2ms   | 34.0 ( 36 %)
 | resnet152 eval  | 25.5ms      | 39.5ms   | 14.0 ( 35 %)
 | resnet152 train | 135.0ms     | 183.9ms  | 48.9 ( 27 %)
+
+# FAQ
+
+Coming here soon!
+
+# Contact (Bugs, Feedback, Contribution and more)
+
+For questions about `dl-benchmarks`, please open an issue
+[here](https://github.com/stefan-it/dl-benchmarks/issues).
